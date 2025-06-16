@@ -1,5 +1,5 @@
 # budget-tracker
-A simple Jupyter-based student budget tracker that helps you:
+A Jupyter-based student budget tracker that helps you:
 - track monthly budget
 - track expenses date-wise
 - add expenses under categories
